@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Mouse">5ae3f54fdb43230090928809489619df</sc_cat_item>
+        <sc_catalog display_value="Order an item TEST">c6854fc2db0323009092880948961937</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-21 13:52:58</sys_created_on>
+        <sys_id>c6f3394fdb432300909288094896193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order a item TEST.Mouse</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c6f3394fdb432300909288094896193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-21 13:52:58</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
